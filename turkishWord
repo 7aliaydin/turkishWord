@@ -1,0 +1,332 @@
+[
+  {
+    "letter": "a",
+    "words": [
+      "ağa",
+      "alı",
+      "atı",
+      "ana",
+      "adı",
+      "akı"
+    ]
+  },
+  {
+    "letter": "b",
+    "words": [
+      "baba",
+      "baca",
+      "bacak",
+      "bile",
+      "balık",
+      "büyük"
+    ]
+  },
+  {
+    "letter": "c",
+    "words": [
+      "cami",
+      "cep",
+      "çocuk",
+      "çatı",
+      "çift",
+      "çalı"
+    ]
+  },
+  {
+    "letter": "d",
+    "words": [
+      "dükkan",
+      "dolap",
+      "dağ",
+      "dil",
+      "dost",
+      "düğün"
+    ]
+  },
+  {
+    "letter": "e",
+    "words": [
+      "elma",
+      "etek",
+      "eşya",
+      "eşik",
+      "ev",
+      "elde"
+    ]
+  },
+  {
+    "letter": "f",
+    "words": [
+      "fırın",
+      "fincan",
+      "fıstık",
+      "faiz",
+      "fes",
+      "felek"
+    ]
+  },
+  {
+    "letter": "g",
+    "words": [
+      "güzel",
+      "göl",
+      "gemi",
+      "geçit",
+      "gerek",
+      "gök"
+    ]
+  },
+  {
+    "letter": "h",
+    "words": [
+      "hasta",
+      "hayvan",
+      "havlu",
+      "hırka",
+      "hızlı",
+      "hüzün"
+    ]
+  },
+  {
+    "letter": "ı",
+    "words": [
+      "ıslak",
+      "ırmak",
+      "ısı",
+      "ısırık",
+      "ısmarlama",
+      "ışık"
+    ]
+  },
+  {
+    "letter": "i",
+    "words": [
+      "isim",
+      "işlem",
+      "içki",
+      "işaret",
+      "işletme",
+      "iç"
+    ]
+  },
+  {
+    "letter": "j",
+    "words": [
+      "jilet",
+      "joker",
+      "jöle",
+      "jübile",
+      "jiroskop",
+      "jeton"
+    ]
+  },
+  {
+    "letter": "k",
+    "words": [
+      "köpek",
+      "köprü",
+      "kağıt",
+      "kalem",
+      "kalp",
+      "kalite"
+    ]
+  },
+  {
+    "letter": "l",
+    "words": [
+      "lokanta",
+      "laptop",
+      "lale",
+      "lamba",
+      "latife",
+      "legenda"
+    ]
+  },
+  {
+    "letter": "m",
+    "words": [
+      "makine",
+      "mağaza",
+      "mal",
+      "marka",
+      "masa",
+      "matematik"
+    ]
+  },
+  {
+    "letter": "n",
+    "words": [
+      "nehir",
+      "nöbet",
+      "nokta",
+      "nal",
+      "namaz",
+      "naif"
+    ]
+  },
+  {
+    "letter": "o",
+    "words": [
+      "okul",
+      "odun",
+      "odunsu",
+      "okka",
+      "okul",
+      "okunma"
+    ]
+  },
+  {
+    "letter": "ö",
+    "words": [
+      "öğle",
+      "öğretmen",
+      "öğüt",
+      "öğüz",
+      "öğrenci",
+      "öğrenme"
+    ]
+  },
+  {
+    "letter": "p",
+    "words": [
+      "park",
+      "para",
+      "pano",
+      "papatya",
+      "pardon",
+      "parmak"
+    ]
+  },
+  {
+    "letter": "r",
+    "words": [
+      "rüya",
+      "radyo",
+      "reng",
+      "resim",
+      "rüzgar",
+      "rengarenk"
+    ]
+  },
+  {
+    "letter": "s",
+    "words": [
+      "süt",
+      "süpürge",
+      "sınıf",
+      "sıradışı",
+      "sıcak",
+      "sınır"
+    ]
+  },
+  {
+    "letter": "ş",
+    "words": [
+      "şapka",
+      "şapşal",
+      "şarap",
+      "şarkı",
+      "şehir",
+      "şemsiye"
+    ]
+  },
+  {
+    "letter": "t",
+    "words": [
+      "telefon",
+      "televizyon",
+      "tencere",
+      "top",
+      "tren",
+      "tuvalet"
+    ]
+  },
+  {
+    "letter": "u",
+    "words": [
+      "ülke",
+      "üniversite",
+      "üzüm",
+      "ütü",
+      "üzüntü",
+      "üzüm"
+    ]
+  },
+  {
+    "letter": "ü",
+    "words": [
+      "üniversite",
+      "ütü",
+      "üzüm",
+      "ülke",
+      "üzüntü",
+      "üzüm"
+    ]
+  },
+  {
+    "letter": "v",
+    "words": [
+      "vapur",
+      "vanilya",
+      "vazo",
+      "vejeteryan",
+      "vejeteryanizm",
+      "veli"
+    ]
+  },
+  {
+    "letter": "y",
+    "words": [
+      "yaprak",
+      "yastık",
+      "yatak",
+      "yatırım",
+      "yay",
+      "yayın"
+    ]
+  },
+  {
+    "letter": "z",
+    "words": [
+      "zarf",
+      "zarif",
+      "zaruret",
+      "zemin",
+      "zeytin",
+      "zigzag"
+    ]
+  },
+  {
+    "letter": "v",
+    "words": [
+      "vapur",
+      "vanilya",
+      "vazo",
+      "vejeteryan",
+      "vejeteryanizm",
+      "veli"
+    ]
+  },
+  {
+    "letter": "y",
+    "words": [
+      "yaprak",
+      "yastık",
+      "yatak",
+      "yatırım",
+      "yay",
+      "yayın"
+    ]
+  },
+  {
+    "letter": "z",
+    "words": [
+      "zarf",
+      "zarif",
+      "zaruret",
+      "zemin",
+      "zeytin",
+      "zigzag"
+    ]
+  }
+]
